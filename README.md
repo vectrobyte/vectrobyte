@@ -57,8 +57,9 @@ In my professional journey, I've navigated various roles, from crafting technolo
 - Software Engineer at **[Cixware](https://cixware.io)** (Apr 2018 - Mar 2020).
 - Web Designer and Software Developer at **[Y-Tech](https://ytech.com.np)** (Apr 2017 - Feb 2018).
 
-## Some (not so) shiny stats ✨ 
-</a>
+## Some (not so) shiny stats ✨
+The top languages on my GitHub profile are like the popular kids in school - they get all the attention, but there's a whole bunch of other cool kids hanging out in the background that you might not see right away😉.
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectrobyte&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ## Get in touch 📫
