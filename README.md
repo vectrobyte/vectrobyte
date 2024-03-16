@@ -62,13 +62,13 @@ In my professional journey, I've navigated various roles, from crafting technolo
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectrobyte&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ## Get in touch 📫
+[![Gmail](https://img.shields.io/static/v1?style=flat&message=contact@vectrobyte.com&color=EA4335&logo=gmail&logoColor=FFFFFF&label=)](mailto:contact@vectrobyte.com)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white)](https://vectrobyte.com)
 
-
-[![Gmail](https://img.shields.io/static/v1?style=flat&message=Mail+me&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:contact@vectrobyte.com)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vectrobyte/)
 [![Fiverr](https://img.shields.io/static/v1?style=flat&message=Fiverr&color=1DB96F&logo=Fiverr&logoColor=white&label=)](https://fiverr.com/vectrobyte)
 [![StackOverflow](https://img.shields.io/static/v1?style=flat&message=Stack+Overflow&color=FFFFFF&logo=Stack+Overflow&logoColor=F58025&label=)](https://stackoverflow.com/users/12417416/vectrobyte)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white)](https://vectrobyte.com)
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
