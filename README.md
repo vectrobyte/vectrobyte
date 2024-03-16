@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Hi, I'm Dilip Bhattarai, Full-Stack Engineer from Nepal with a passion for building robust and scalable solutions using modern technologies on the web with great user experience. I currently work [@STEER](https://steer.education) as the Technical Team Leader and Software Engineer. STEER is focused on measuring, tracking and improving the mental health of every student.
 
 
-## 🧪 Technologies
+## Technologies 🧪
 
 I enjoy exploring and experimenting with various technologies, but tried to make this list accurate and concise.
 
@@ -57,7 +57,7 @@ In my professional journey, I've navigated various roles, from crafting technolo
 - Software Engineer at **[Cixware](https://cixware.io)** (Apr 2018 - Mar 2020).
 - Web Designer and Software Developer at **[Y-Tech](https://ytech.com.np)** (Apr 2017 - Feb 2018).
 
-## ✨ Some (not so) shiny stats 
+## Some (not so) shiny stats ✨ 
 </a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectrobyte&layout=compact&theme=buefy&hide_border=true" /></a>
 
