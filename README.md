@@ -53,7 +53,7 @@ I enjoy exploring and experimenting with various technologies, but tried to make
 ## Work 🔭
 In my professional journey, I've navigated various roles, from crafting technology solutions to embracing leadership opportunities.
 - Technical Team Leader and Software Engineer at **[STEER](https://steer.education)** (Nov 2021 - Present).
-- Full Stack Engineer at **[Kindship](https://kindship.com)** (Apr 2010 - Oct 2021).
+- Full Stack Engineer at **[Kindship](https://kindship.com)** (Apr 2020 - Oct 2021).
 - Software Engineer at **[Cixware](https://cixware.io)** (Apr 2018 - Mar 2020).
 - Web Designer and Software Developer at **[Y-Tech](https://ytech.com.np)** (Apr 2017 - Feb 2018).
 
