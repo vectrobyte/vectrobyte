@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Dilip. I am a software engineer with a passion building innovative and useful products on the web with great user experience. I live in Nepal and currently work [@STEER](https://steer.education) as the Technical Team Leader and Software Engineer. STEER is focused on measuring, tracking and improving the mental health of every student.
+Hi, I'm Dilip Bhattarai, Full-Stack Engineer from Nepal with a passion for building robust and scalable solutions using modern technologies on the web with great user experience. I currently work [@STEER](https://steer.education) as the Technical Team Leader and Software Engineer. STEER is focused on measuring, tracking and improving the mental health of every student.
 
 
 ## 🧪 Technologies
