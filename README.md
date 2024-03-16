@@ -63,6 +63,8 @@ The top languages on my GitHub profile are like the popular kids in school - the
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectrobyte&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ## Get in touch 📫
+Feel free to drop me a message! 📩 Let's chat about tech, projects, or anything else that sparks your interest.
+
 [![Gmail](https://img.shields.io/static/v1?style=flat&message=contact@vectrobyte.com&color=EA4335&logo=gmail&logoColor=FFFFFF&label=)](mailto:contact@vectrobyte.com)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white)](https://vectrobyte.com)
 
