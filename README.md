@@ -62,6 +62,8 @@ The top languages on my GitHub profile are like the popular kids in school - the
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectrobyte&layout=compact&theme=buefy&hide_border=true" /></a>
 
+[![wakatime](https://wakatime.com/badge/user/33f8508a-9e8d-49bf-a6a4-5128a180bbb6.svg)](https://wakatime.com/@33f8508a-9e8d-49bf-a6a4-5128a180bbb6)
+
 ## Get in touch 📫
 Feel free to drop me a message! 📩 Let's chat about tech, projects, or anything else that sparks your interest.
 
