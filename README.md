@@ -69,7 +69,6 @@ Feel free to drop me a message! 📩 Let's chat about tech, projects, or anythin
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white)](https://vectrobyte.com)
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vectrobyte/)
-[![Fiverr](https://img.shields.io/static/v1?style=flat&message=Fiverr&color=1DB96F&logo=Fiverr&logoColor=white&label=)](https://fiverr.com/vectrobyte)
 [![StackOverflow](https://img.shields.io/static/v1?style=flat&message=Stack+Overflow&color=FFFFFF&logo=Stack+Overflow&logoColor=F58025&label=)](https://stackoverflow.com/users/12417416/vectrobyte)
 
 <!-- Resources -->
